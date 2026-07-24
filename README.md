@@ -1,2 +1,3 @@
 # Dsa-practice1
-My fist git repository
+My fist git repository.
+
